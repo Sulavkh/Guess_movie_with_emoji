@@ -1,4 +1,6 @@
+Author: Sulav Khatiwada
 Project Title:
+
 # GUESS MOVIE WITH EMOJI
 
 ### Video Demo: https://www.youtube.com/watch?v=qkgYKTcBDUw
